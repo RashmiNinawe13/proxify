@@ -36,7 +36,7 @@ Proxify is a proxy management tool designed for enhanced anonymity, security, an
 3. **Test Scenarios**: Detailed user-centric interaction scenarios.
 4. **Test Cases**: Step-by-step instructions with expected vs. actual results.
 5. **Bug Report**: Detailed findings, severity levels, and reproduction steps.
-6. **Mind Map**: Diagram representing the testing approach and process.
+
 
 ## 🐞 Key Bugs Identified
 - **Critical**: Proxy rotation failed under heavy load conditions.
