@@ -54,7 +54,6 @@ The testing process helped uncover critical bugs, verify proxy management flows,
 - **Documentation Tools**: MS Word, Google Sheets
 - **Mind Mapping**: XMind
 - **Testing Environments**: Chrome, Firefox, and selenium
-- 
 
 ## 🏆 Acknowledgments
 Special thanks to the development team and testers for their contributions to ensuring the reliability of Proxify.
