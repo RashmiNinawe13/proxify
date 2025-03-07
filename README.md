@@ -17,13 +17,14 @@ Proxify is a proxy management tool designed for enhanced anonymity, security, an
 - **Bug Report**: Detailed report of identified bugs with severity levels.
 - **Summary**: Overview of software functionality and test outcomes.
 - **Mind Map**: Visual diagram of the testing process.
+- **Automation Test Scripts**: Collection of scripts for automated testing.
 
 ## 🎯 Features Tested
 - **Proxy Configuration**: Adding, removing, and updating proxies.
 - **Automatic Proxy Rotation**: Ensuring seamless switching between proxies.
 - **Performance Monitoring**: Tracking latency and success rates.
 - **Security & Anonymity**: Validating IP masking and data protection.
-- **API Integration**: Verifying RESTful API endpoints for managing proxies.
+  
 
 ## 🛠️ Design Decisions and Assumptions
 - Focused on exploratory and automated testing to uncover hidden issues.
@@ -36,6 +37,8 @@ Proxify is a proxy management tool designed for enhanced anonymity, security, an
 3. **Test Scenarios**: Detailed user-centric interaction scenarios.
 4. **Test Cases**: Step-by-step instructions with expected vs. actual results.
 5. **Bug Report**: Detailed findings, severity levels, and reproduction steps.
+6. **Automation Test Scripts**: Collection of scripts for automated testing.
+
 
 
 ## 🐞 Key Bugs Identified
@@ -50,7 +53,8 @@ The testing process helped uncover critical bugs, verify proxy management flows,
 ## 💻 Technology Stack
 - **Documentation Tools**: MS Word, Google Sheets
 - **Mind Mapping**: XMind
-- **Testing Environments**: Chrome, Firefox, and API Testing Tools
+- **Testing Environments**: Chrome, Firefox, and selenium
+- 
 
 ## 🏆 Acknowledgments
 Special thanks to the development team and testers for their contributions to ensuring the reliability of Proxify.
