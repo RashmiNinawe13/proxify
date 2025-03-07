@@ -30,6 +30,13 @@ Proxify is a proxy management tool designed for enhanced anonymity, security, an
 - Focused on exploratory and automated testing to uncover hidden issues.
 - Assumed cross-platform compatibility as a requirement.
 - Followed RTM for comprehensive coverage.
+- Maven configuration file
+-  Page Object Model (POM) classes
+  ## Prerequisites
+- Java (JDK 8 or later)
+- Maven
+- TestNG
+- Selenium WebDriver
 
 ## 📊 Testing Artifacts
 1. **Test Plan**: Defined the scope, objectives, and testing strategies.
@@ -51,9 +58,9 @@ Proxify is a proxy management tool designed for enhanced anonymity, security, an
 The testing process helped uncover critical bugs, verify proxy management flows, and ensure the software meets its functional requirements. This project emphasized the importance of structured testing for identifying key issues.
 
 ## 💻 Technology Stack
-- **Documentation Tools**: MS Word, Google Sheets
+- **Documentation Tools**: MS Word, Google Sheets,maven,testing,junit
 - **Mind Mapping**: XMind
-- **Testing Environments**: Chrome, Firefox, and selenium
+- **Testing Environments**: Chrome, edge.
 
 ## 🏆 Acknowledgments
 Special thanks to the development team and testers for their contributions to ensuring the reliability of Proxify.
