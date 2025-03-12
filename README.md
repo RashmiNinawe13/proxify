@@ -67,4 +67,4 @@ Special thanks to the development team and testers for their contributions to en
 
 
 
-video link:https://drive.google.com/file/d/1ih9_Kak3zB4HRKvlifR8VE5EH4VCH5J_/view?usp=sharing
+video link:https://drive.google.com/file/d/1kj8lffBbX9mtdNCYWMTsK8RnrZEaMena/view?usp=drive_link
