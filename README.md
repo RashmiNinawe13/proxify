@@ -2,6 +2,14 @@
 
 # Proxify
 
+📝 Overview
+This repository contains detailed bug reports, test cases, and UI issues found during the testing of the Proxify platform. The primary focus was on functionality, UI responsiveness, and payment flow.
+
+📂 Google Drive Link: https://drive.google.com/drive/folders/1dTgoPuelbs1n6ByDraCPdIgJ8lGF8pFB?usp=drive_link
+
+🎥 video Link: :https://drive.google.com/file/d/1kj8lffBbX9mtdNCYWMTsK8RnrZEaMena/view?usp=drive_link
+
+
 ## 📝 Introduction
 Proxify is a proxy management tool designed for enhanced anonymity, security, and performance optimization. This project involves comprehensive manual and automated testing to ensure its reliability and functionality while identifying potential issues.
 
